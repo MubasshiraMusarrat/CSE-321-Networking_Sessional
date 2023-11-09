@@ -1,0 +1,13 @@
+Assalawalaikum Sir.
+
+Regarding the 3(f) point about the uploaded file being public, if a client (suppose Jack) puts up a req for a file and another Client ( suppose Eve ) responds to the request and uploads the file, what will the destination of the uploaded file be?
+
+1. Public folder of Jack ( The one who requested the file )
+
+2. Public folder of Eve (The one who fulfilled the req )
+
+3. A common folder in the Server Side for all common uploads ( Which is of course public to all and the files are always downloadable by any user)
+
+
+
+Thank You Sir.
