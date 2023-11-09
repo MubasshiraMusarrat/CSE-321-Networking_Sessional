@@ -11,3 +11,9 @@
 [*problem specification*](https://github.com/MubasshiraMusarrat/CSE-322-Networking_Sessional/blob/main/NS3-1/NS3_Assignment1.pdf)
 
 [*solution*](https://github.com/MubasshiraMusarrat/CSE-322-Networking_Sessional/tree/main/NS3-1/offline)
+
+## Ns3 Offline 2
+
+[*problem specification*](https://github.com/MubasshiraMusarrat/CSE-322-Networking_Sessional/blob/main/NS3-2/Specifications.pdf)
+
+[*solution*](https://github.com/MubasshiraMusarrat/CSE-322-Networking_Sessional/tree/main/NS3-2/offline)
